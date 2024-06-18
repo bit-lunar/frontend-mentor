@@ -4,24 +4,24 @@
 
 ## QR-code-component
 
-- [Solution URL](https://github.com/bit-lunar/frontend-mentor/tree/main/qr-code-component-main)
-- [Live Site URL](https://bit-lunar.github.io/frontend-mentor/qr-code-component-main/index.html)
+- [Solution URL](https://github.com/bit-lunar/frontend-mentor/tree/main/001-qr-code-component-main)
+- [Live Site URL](https://bit-lunar.github.io/frontend-mentor/001-qr-code-component-main/index.html)
 
-    ![QR code](qr-code-component-main/design/desktop-design.png)
+    ![QR code](001-qr-code-component-main/design/desktop-design.png)
 
 ## NFT-preview-card-component
 
-- [Solution URL](https://github.com/bit-lunar/frontend-mentor/tree/main/nft-preview-card-component-main)
-- [Live Site URL](https://bit-lunar.github.io/frontend-mentor/nft-preview-card-component-main/index.html)
+- [Solution URL](https://github.com/bit-lunar/frontend-mentor/tree/main/002-nft-preview-card-component-main)
+- [Live Site URL](https://bit-lunar.github.io/frontend-mentor/002-nft-preview-card-component-main/index.html)
 
-    ![NFT](nft-preview-card-component-main/design/desktop-design.jpg)
+    ![NFT](002-nft-preview-card-component-main/design/desktop-design.jpg)
 
 ## Blog-preview-card
 
-- [Solution URL](https://github.com/bit-lunar/frontend-mentor/tree/main/blog-preview-card-main)
-- [Live Site URL](https://bit-lunar.github.io/frontend-mentor/blog-preview-card-main/index.html)
+- [Solution URL](https://github.com/bit-lunar/frontend-mentor/tree/main/003-blog-preview-card-main)
+- [Live Site URL](https://bit-lunar.github.io/frontend-mentor/003-blog-preview-card-main/index.html)
 
-    ![Blog](blog-preview-card-main/design/desktop-design.jpg)
+    ![Blog](003-blog-preview-card-main/design/desktop-design.jpg)
 
 <!-- ## Social-links-profile
 
