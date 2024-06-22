@@ -23,14 +23,14 @@
 
     ![Blog](003-blog-preview-card-main/design/desktop-design.jpg)
 
-<!-- ## Social-links-profile
+## Social-links-profile
 
-- Solution URL: [https://github.com/andressakaren/Frontend-Mentor/tree/main/05_recipe-page-main](https://github.com/andressakaren/Frontend-Mentor/tree/main/05_recipe-page-main)
-- Live Site URL: [https://andressakaren.github.io/Frontend-Mentor/04_social-links-profile-main/](https://andressakaren.github.io/Frontend-Mentor/04_social-links-profile-main/)
+- [Solution URL](https://github.com/bit-lunar/frontend-mentor/tree/main/004-social-links-profile-main)
+- [Live Site URL](https://bit-lunar.github.io/frontend-mentor/004-social-links-profile-main/index.html)
 
-    ![Blog](social-links-profile-main/design/active-states.jpg)
+    ![Social-links](004-social-links-profile-main/design/destkop-design.jpg)
 
-## Recipe-page-main
+<!-- ## Recipe-page-main
 
 - Solution URL: [https://github.com/andressakaren/Frontend-Mentor/tree/main/04_social-links-profile-main](https://github.com/andressakaren/Frontend-Mentor/tree/main/04_social-links-profile-main)
 - Live Site URL: [https://andressakaren.github.io/Frontend-Mentor/05_recipe-page-main/](https://andressakaren.github.io/Frontend-Mentor/05_recipe-page-main/)
