@@ -30,9 +30,10 @@
 
     ![Social-links](004-social-links-profile-main/design/destkop-design.jpg)
 
-<!-- ## Recipe-page-main
+## Recipe-page
 
-- Solution URL: [https://github.com/andressakaren/Frontend-Mentor/tree/main/04_social-links-profile-main](https://github.com/andressakaren/Frontend-Mentor/tree/main/04_social-links-profile-main)
-- Live Site URL: [https://andressakaren.github.io/Frontend-Mentor/05_recipe-page-main/](https://andressakaren.github.io/Frontend-Mentor/05_recipe-page-main/)
+- [Solution URL](https://github.com/bit-lunar/frontend-mentor/tree/main/005-recipe-page-main)
+- [Live Site URL](https://bit-lunar.github.io/frontend-mentor/005-recipe-page-main/index.html)
 
-    ![Blog](recipe-page-main/design/desktop-design.jpg) -->
+    ![Social-links](005-recipe-page-main/design/desktop-design.jpg)
+
