@@ -61,10 +61,6 @@ figure {
     border-radius: 15px;
 }
 
-.img > img:hover {
-    cursor: pointer;
-}
-
 .img-overlay {
     position: absolute;
     top: 0px;
@@ -83,6 +79,7 @@ figure {
 }
 
 .img-overlay:hover {
+    cursor: pointer;
     opacity: 1;
 }
 
