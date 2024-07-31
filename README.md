@@ -37,3 +37,9 @@
 
     ![Social-links](005-recipe-page-main/design/desktop-design.jpg)
 
+## Result-summary
+
+- [Solution URL](https://github.com/bit-lunar/frontend-mentor/tree/main/006-results-summary-component-main)
+- [Live Site URL](https://bit-lunar.github.io/frontend-mentor/006-results-summary-component-main/index.html)
+
+    ![Social-links](006-results-summary-component-main/design/desktop-design.jpg)
