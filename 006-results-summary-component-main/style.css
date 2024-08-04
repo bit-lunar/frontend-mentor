@@ -57,19 +57,17 @@ body{
 }
 
 .main {
-    display: grid;
-    /* grid-template-columns: 1fr 1fr;  */
-    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); 
-    
+    display: flex;
+    flex-wrap: wrap;
     border-radius: 30px;
     width: 640px;
-    /* Não sei fazer sombra */
     box-shadow: 15px 35px 40px var(--main-card-background);
 }
 
 .result,
 .summary {
     padding: 30px;
+    flex: 1 1 320px;
 }
 
 .result {
@@ -80,13 +78,9 @@ body{
     align-items: center;
 }
 
-@media (max-width: 650px) {
+@media (max-width: 639px) {
     body {
         align-items: flex-start;
-    }
-    
-    .main {
-        grid-template-columns: 1fr;
     }
     .result {
         border-radius: 0px 0px 30px 30px;
@@ -232,4 +226,3 @@ body{
 .summary > .button:hover {
     background: linear-gradient(to bottom, var(--result-background-gradient));
 }
-
