@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&display=swap');
+
+:root {
+    /* Primary */
+
+    --Pale-blue: hsl(225, 100%, 94%);
+    --Bright-blue: hsl(245, 75%, 52%);
+
+    /* Neutral */
+
+    --Very-pale-blue: hsl(225, 100%, 98%);
+    --Desaturated-blue: hsl(224, 23%, 55%);
+    --Dark-blue: hsl(223, 47%, 23%);
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Red Hat Display", sans-serif;
+    background-image: url(images/pattern-background-desktop.svg);
+    background-color: var(--Pale-blue);
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 120px 0px;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    width: 380px;
+    justify-content: center;
+    border-radius: 20px;
+    background-color: var(--Very-pale-blue);
+}
+
+img {
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 15px;
+    color: var(--Dark-blue);
+    font-weight: 900;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+}
+
+.section-text {
+    text-align: center;
+    font-size: 0.9rem;
+    color: var(--Desaturated-blue);
+    font-weight: 500;
+    line-height: 1.7;
+    margin: 0px 50px 20px 40px;
+}
+
+.annual-plan {
+    display: flex;
+    background-color: rgba(224, 232, 255, 0.3);
+    margin: 0px 40px 0px 40px;
+    border-radius: 10px;
+    padding: 15px;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.annual-plan img {
+    width: 40px;
+    height: 40px;
+}
+
+.annual-plan a {
+    color: var(--Bright-blue);
+    font-weight: 700;
+    font-size: 0.8rem;
+    align-self: center;
+    margin-right: 10px;
+}
+
+#button:hover{
+    opacity: 0.8;
+}
+
+#button_1:hover{
+    color: var(--Dark-blue);
+}
+
+.annual-plan-info {
+    margin-right: 60px;
+}
+
+.annual-plan-info h2 {
+    font-size: 0.9rem;
+    color: var(--Dark-blue);
+    font-weight: 700;
+}
+
+.annual-plan-info p {
+    font-size: 0.9rem;
+    color: var(--Desaturated-blue);
+}
+
+.links {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.links :nth-child(odd) {
+    background-color: var(--Bright-blue);
+    margin: 0px 40px 0px 40px;
+    color: var(--Very-pale-blue);
+    text-align: center;
+    padding: 11px;
+    border-radius: 8px;
+    font-size: 0.9rem;
+    text-decoration: none;
+    font-weight: 500;
+    box-shadow: 0 10px 20px hsl(224, 23%, 55%, 80%);
+}
+
+.links :nth-child(even) {
+    font-size: 0.9rem;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 30px;
+    text-decoration: none;
+    color: var(--Desaturated-blue);
+    font-weight: 700;
+}
