@@ -43,3 +43,17 @@
 - [Live Site URL](https://bit-lunar.github.io/frontend-mentor/006-results-summary-component-main/index.html)
 
     ![Social-links](006-results-summary-component-main/design/desktop-design.jpg)
+
+## Order-summary
+
+- [Solution URL](https://github.com/bit-lunar/frontend-mentor/tree/main/007-order-summary-component-main)
+- [Live Site URL](https://bit-lunar.github.io/frontend-mentor/007-order-summary-component-main)
+
+    ![Social-links](007-order-summary-component-main/design/desktop-design.jpg)
+
+## Stats-preview
+
+- [Solution URL](https://github.com/bit-lunar/frontend-mentor/tree/main/008-stats-preview-card-component-main)
+- [Live Site URL](https://bit-lunar.github.io/frontend-mentor/008-stats-preview-card-component-main)
+
+    ![Social-links](008-stats-preview-card-component-main/design/desktop-design.jpg)
