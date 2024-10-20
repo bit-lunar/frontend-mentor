@@ -67,7 +67,7 @@
 
 ## Product-preview
 
-- [Solution URL](https://github.com/bit-lunar/frontend-mentor/tree/main/009-product-preview-card-component-main)
-- [Live Site URL](https://bit-lunar.github.io/frontend-mentor/009-product-preview-card-component-main)
+- [Solution URL](https://github.com/bit-lunar/frontend-mentor/tree/main/010-product-preview-card-component-main)
+- [Live Site URL](https://bit-lunar.github.io/frontend-mentor/010-product-preview-card-component-main)
 
-    ![Social-links](009-product-preview-card-component-main/design/desktop-design.jpg)
+    ![Social-links](010-product-preview-card-component-main/design/desktop-design.jpg)
