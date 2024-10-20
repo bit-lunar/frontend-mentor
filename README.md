@@ -58,6 +58,13 @@
 
     ![Social-links](008-stats-preview-card-component-main/design/desktop-design.jpg)
 
+## Profile-card
+
+- [Solution URL](https://github.com/bit-lunar/frontend-mentor/tree/main/009-profile-card-component-main)
+- [Live Site URL](https://bit-lunar.github.io/frontend-mentor/009-profile-card-component-main)
+
+    ![Social-links](009-profile-card-component-main/design/desktop-design.jpg)
+
 ## Product-preview
 
 - [Solution URL](https://github.com/bit-lunar/frontend-mentor/tree/main/009-product-preview-card-component-main)
